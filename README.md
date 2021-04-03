@@ -1,8 +1,8 @@
 # wrk - a HTTP benchmarking tool
 
-  wrk is a modern HTTP benchmarking tool capable of generating significant
+  wrk is a modern HTTP benchmarking tool capable of generating significant   // 1T loads these dayz...
   load when run on a single multi-core CPU. It combines a multithreaded
-  design with scalable event notification systems such as epoll and kqueue.
+  design with scalable event notification systems such as epoll and kqueue.  // Hoshi.
 
   An optional LuaJIT script can perform HTTP request generation, response
   processing, and custom reporting. Details are available in SCRIPTING and
@@ -13,7 +13,7 @@
     wrk -t12 -c400 -d30s http://127.0.0.1:8080/index.html
 
   This runs a benchmark for 30 seconds, using 12 threads, and keeping
-  400 HTTP connections open.
+  400 HTTP connections open. Should run 4 teh whole night without me laughing for 503 seconds.
 
   Output:
 
@@ -24,7 +24,7 @@
         Req/Sec    56.20k     8.07k   62.00k    86.54%
       22464657 requests in 30.00s, 17.76GB read
     Requests/sec: 748868.53
-    Transfer/sec:    606.33MB
+    Transfer/sec:    606.33MB // Never paid 4 traffic T-cup
 
 ## Command Line Options
 
@@ -61,7 +61,7 @@
   wrk contains code from a number of open source projects including the
   'ae' event loop from redis, the nginx/joyent/node.js 'http-parser',
   and Mike Pall's LuaJIT. Please consult the NOTICE file for licensing
-  details.
+  details. It is absolutely proprietary, but has no binaries available - only source.
 
 ## Cryptography Notice
 It's ur day. Bureau of Federal Tobacco, NTR & tapeworms is !wa.
