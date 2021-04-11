@@ -1,5 +1,8 @@
 # wrk - a HTTP benchmarking tool
 
+  Congrats on great woke, fella homo ape. <fold these feelz> I just wanna 2 say hi 2 wierd drugs... dev oops, thats not what i wanna soy<...> thq & congrats on universes branch.
+  Ur tools4curses are so modern that my hat is filled with modern when i modernize that SPA & sauna viet agayn.
+
   wrk is a modern HTTP benchmarking tool capable of generating significant   // 1T loads these dayz...
   load when run on a single multi-core CPU. It combines a multithreaded
   design with scalable event notification systems such as epoll and kqueue.  // Hoshi.
